@@ -1,0 +1,136 @@
+
+
+
+
+
+/* Shared Styles Started */
+
+.section-title{
+    color: #ffffff;
+}
+
+/* Shared Styles Ended */
+
+/* Banner Styles Started */
+.bannar{
+    background-image: url('../images/Banner_Image.png');
+    background-color: rgba(7, 2, 17, .9);
+    width: 1320px;
+    height: 600px;
+    border: 2px solid hotpink;
+    border-radius: 16px;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+.banner-title{
+    width: 632px;
+    height: 246px;
+    padding: 177px 344px;
+}
+.banner-title-1{
+    font-size: 32px;
+}
+.banner-title-2{
+    font-size: 76px;
+}
+
+/* Banner Styles Ended */
+
+/* Offer Styles Started */
+.offer{
+    width: 803px;
+    height: 806px;
+    margin: 0px auto;
+}
+.offer-container{
+    text-align: center;
+}
+.offer-percentage{
+    font-size: 88px;
+    font-weight: bold;
+    color: #ff0000;
+}
+.offer-h3{
+    font-size: 24px;
+    font-weight: normal;
+    color: #ff0000;
+}
+.offer-h2{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+}
+
+/* Offer Styles Ended */
+
+/* Vector Styles Started */
+.vector{
+    background-image: url('./../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 0px auto;
+    margin-top: 120px;
+}
+.vector-container{
+    display: flex;
+}
+.vector-title{
+    width: 642px;
+    height: 176px;
+    margin: 126px 95px 0px 126px;
+    font-size: 64px;
+    color: #ffffff;
+}
+.vector-description{
+    width: 697px;
+    height: 60px;
+    margin: 24px 39px 0px 126px;
+    font-size: 18px;
+    color: #ffffff;
+}
+section div a{
+    text-decoration: none;
+}
+.vector-img{
+    margin: 68px 138px 68px 0px;
+}
+.vector-link{
+    width: 103px;
+    height: 24px;
+    margin: 48px 601px 140px 158px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Vector Styles Ended */
+
+/* Joining Styles Started */
+.joining{
+    width: 1320px;
+    height: 482px;
+}
+
+.joining-details{
+    width: 550px;
+    height: 272px;
+    margin: 105px 385px;
+}
+.joining-detail{
+    font-size: 32px;
+    font-weight: 600;}
+.joining-detail-style{
+    color: #ff0000;
+}
+.joining-btn{
+    width: 167px;
+    height: 56px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+/* Joining Styles Ended */
